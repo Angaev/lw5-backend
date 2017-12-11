@@ -1,0 +1,25 @@
+{% extends "layout.twig" %}
+
+{% block title %}
+  {{ pageName }}
+{% endblock %}
+
+
+{% block content %}
+  <div class = "container">
+  {% include 'header.twig' %}
+  {% include 'sidebar.twig' %}
+    
+  <div id="content" class="content block_description in_row">
+    {% for film in films %}
+      {{ include ('film.twig')}}
+    {% endfor %}
+  </div>
+  
+  <div class="clear">
+  </div> 
+{% endblock %}
+
+{% block copyright %}
+  {{ copyright }}
+{% endblock %}

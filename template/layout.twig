@@ -1,0 +1,13 @@
+{# вывести каркас  #}
+<!DOCTYPE HTML>
+<html>
+  <head>   
+    {% include 'head.twig' with {title: block('title')}%}
+  </head>
+  <body>
+  {% block content %}
+  {% endblock %}
+
+  {% include 'footer.twig'  with {copyright: block('copyright')} %}
+  </body>
+</html>

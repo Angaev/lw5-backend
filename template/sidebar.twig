@@ -1,0 +1,8 @@
+<div id="sidebar_left" class="sidebar block_description in_row">
+  {% block sidebar_left %}
+    <h3 class="item">Меню</h3>
+    {% for menuItem in menuItems %}
+        <ul class="item"><a href="{{ menuItem.link }}"> {{ menuItem.name }} </a></ul>
+    {% endfor %}
+  {% endblock %}
+</div>

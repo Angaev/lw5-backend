@@ -1,0 +1,13 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="2">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="488" startPos="226" endPos="226" selMode="0" lang="PHP" encoding="-1" filename="C:\dev\projects\local\lw5\index.php" backupFilePath="" originalFileLastModifTimestamp="1510334700" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="584" startPos="258" endPos="258" selMode="0" lang="Twig2" encoding="-1" filename="C:\dev\projects\local\lw5\template\layout.twig" backupFilePath="" originalFileLastModifTimestamp="1510345043" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="584" startPos="161" endPos="161" selMode="0" lang="Twig2" encoding="-1" filename="C:\dev\projects\local\lw5\template\index.twig" backupFilePath="" originalFileLastModifTimestamp="1510345152" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="504" startPos="165" endPos="165" selMode="0" lang="Twig2" encoding="-1" filename="C:\dev\projects\local\lw5\template\head.twig" backupFilePath="" originalFileLastModifTimestamp="1510345078" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="456" startPos="104" endPos="104" selMode="0" lang="Twig2" encoding="-1" filename="C:\dev\projects\local\lw5\template\footer.twig" backupFilePath="" originalFileLastModifTimestamp="1510345108" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="448" startPos="90" endPos="90" selMode="0" lang="Twig2" encoding="-1" filename="C:\dev\projects\local\lw5\template\header.twig" backupFilePath="" originalFileLastModifTimestamp="1510333920" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>
